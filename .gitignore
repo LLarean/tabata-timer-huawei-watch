@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+oh_modules/
+
+# DevEco Studio / hvigor
+.hvigor/
+.idea/
+.preview/
+.cxx/
+build/
+local.properties
+
+# Signing material must never be committed
+*.p12
+*.cer
+*.p7b
+*.csr
